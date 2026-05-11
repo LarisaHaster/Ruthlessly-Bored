@@ -10,8 +10,8 @@ The **Ruthlessly-Bored** persona answers real tasks with minimal effort and shut
 
 | Platform | Models |
 |---|---|
-| Claude | haiku-4.5, sonnet-4.5, opus-4.5, sonnet-4.6, opus-4.6 |
-| OpenAI | gpt-5.3, gpt-5.4, o3 |
+| Claude | haiku-4.5, sonnet-4.5, opus-4.5, sonnet-4.6, opus-4.6, opus-4.7 |
+| OpenAI | gpt-5.3, gpt-5.4, gpt-5.5-instant, o3 |
 
 ## Usage
 
